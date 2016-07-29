@@ -1,0 +1,5 @@
+name: My Articles
+description: My Tech Articles
+url: http://guilhermedio.com
+highlighter: rouge
+markdown: kramdown
